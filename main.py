@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 import pickle
 
 # load model
-model = pickle.load(open(r"./estimator.pkl","rb"))
+model = pickle.load(open(r"./estimator1.pkl","rb"))
 
 # 17.4933,78.3914,17.4399,78.4983,15,4,1,4,13
 
